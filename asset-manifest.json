@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-icons/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-icons/static/js/main.db16457e.chunk.js",
+    "main.js.map": "/react-icons/static/js/main.db16457e.chunk.js.map",
+    "runtime-main.js": "/react-icons/static/js/runtime-main.ad4bc1a5.js",
+    "runtime-main.js.map": "/react-icons/static/js/runtime-main.ad4bc1a5.js.map",
+    "static/js/2.ce3b2767.chunk.js": "/react-icons/static/js/2.ce3b2767.chunk.js",
+    "static/js/2.ce3b2767.chunk.js.map": "/react-icons/static/js/2.ce3b2767.chunk.js.map",
+    "static/js/3.922760ae.chunk.js": "/react-icons/static/js/3.922760ae.chunk.js",
+    "static/js/3.922760ae.chunk.js.map": "/react-icons/static/js/3.922760ae.chunk.js.map",
+    "index.html": "/react-icons/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-icons/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ce3b2767.chunk.js.LICENSE.txt": "/react-icons/static/js/2.ce3b2767.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4bc1a5.js",
+    "static/js/2.ce3b2767.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.db16457e.chunk.js"
+  ]
+}
